@@ -19,3 +19,6 @@ How to add link: https://github.com/securghost/h0/edit/main/h0-hello-world.md
 How to add image:
 
 <img width="370" alt="image" src="https://github.com/securghost/h0/assets/142783540/801e1459-eade-4e3d-8518-0236c793f373">
+
+
+### SideNote: was a bit easier in realtime than in my head.. wondering if I did something wrong.. :D
